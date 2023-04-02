@@ -39,7 +39,7 @@ flex-shrink: 1rem;
 @media only screen and (max-width:760px ){
     .container { width: 50%;
     font-size: small;
-margin: 1rem;}
+margin: auto;}
     img{
         height: 10rem;
     }
